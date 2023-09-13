@@ -87,4 +87,4 @@ With a focus on simplicity, **cclarg** is a header-only library. No need for wei
 # Fair warning
 **Cclarg** was designed with a very simple goal in mind, a extremly light and intuitive command line argument parser. To keep it this way, many features you may find in larger libraries aren't here.
 
-If you find a feature absolutly nessasary for command line development that I've missed, please [request it as a feature]().
+If you find a feature absolutly nessasary for command line development that I've missed, please [request it as a feature](https://github.com/ZackeryRSmith/Cclarg/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.md&title=%5BREQUEST%5D+title+here).
