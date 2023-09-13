@@ -71,7 +71,7 @@ Positional positionals[] = {
 One of **cclarg**'s helpful features is the automated help menu, designed (roughly) in line with GNU standards. With just a function call, get a help menu tailored to your flags and positionals.
 ```c
 if (flags[HELP_FLAG].is_set) {
-    show_help();
+    print_help(...);
 }
 ```
 
