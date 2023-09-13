@@ -13,7 +13,6 @@ typedef enum {
 
 typedef enum { FILES_POSITIONAL, POSITIONALS_COUNT } PositionalEnum;
 
-void help(const char *_);
 void print_file(const char *file_name);
 Flag flags[FLAGS_COUNT] = {
     {"-h", "--help", "Show help menu", NULL, false, false},
